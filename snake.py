@@ -63,7 +63,7 @@ def move():
     update()
     ontimer(move, 100)
 
-setup(420, 420, 370, 0)
+setup(420, 420, 370, 100)
 hideturtle()
 tracer(False)
 listen()
